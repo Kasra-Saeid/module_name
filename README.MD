@@ -4,6 +4,8 @@ This is a tested and robust Implementation of clean architecture template. DDD p
 
 You should make a folder for each domain with exsisting template in internal folder and put all your external packages in pkg folder; so if you change an external package, the only layers that should be changed are "pkg" and "infrastructure".
 
+All contributions are welcome.
+#### This repo currently needs well defined documentation.
 
 
 ### Can be used in microservices or monolith apps. 
